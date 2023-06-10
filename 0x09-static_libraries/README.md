@@ -1,1 +1,1 @@
-#Th task on  C - Static libraries
+#Task on  C - Static libraries
